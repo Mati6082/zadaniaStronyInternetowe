@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(to top left, aqua, fuchsia);
+    color: #333333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    margin: 20px;
+}
+
+footer, header {
+    font-size: 18px;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}

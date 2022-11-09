@@ -1,0 +1,27 @@
+body {
+    background-color: #333;
+    color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section {
+    border: 3px;
+    border-style: solid;
+    border-color: bisque;
+    padding: 5px;
+    margin: 10px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+footer {
+    background-color: bisque;
+    color: #333;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
