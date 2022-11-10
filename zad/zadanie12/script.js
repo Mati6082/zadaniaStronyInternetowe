@@ -18,5 +18,6 @@ btn.addEventListener(`click`, function() {
     ${p4}<br>
     ${p5}<br>
     Suma liczb: ${p1} + ${p2} + ${p3} + ${p4} + ${p5} = ${p1 + p2 + p3 + p4 + p5}<br>
-    Iloczyn liczb: `
+    Iloczyn liczb: ${p1} * ${p2} * ${p3} * ${p4} * ${p5} = ${p1 * p2 * p3 * p4 * p5}<br>
+    Średnia liczb: (${p1} + ${p2} + ${p3} + ${p4} + ${p5})/5 = ${(p1 + p2 + p3 + p4 + p5)/5}`
 })
