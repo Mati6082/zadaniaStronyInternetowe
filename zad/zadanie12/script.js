@@ -1,7 +1,7 @@
 let min = document.querySelector(`#min`)
 let max = document.querySelector(`#max`)
 let btn = document.querySelector(`button`)
-let wynik = document.querySelector(`#wylosowane`)
+let wynik = document.querySelector(`#wynik`)
 let p1, p2, p3, p4, p5
 
 btn.addEventListener(`click`, function() {
@@ -16,5 +16,7 @@ btn.addEventListener(`click`, function() {
     ${p2}<br>
     ${p3}<br>
     ${p4}<br>
-    ${p5}<br>`
+    ${p5}<br>
+    Suma liczb: ${p1} + ${p2} + ${p3} + ${p4} + ${p5} = ${p1 + p2 + p3 + p4 + p5}<br>
+    Iloczyn liczb: `
 })
