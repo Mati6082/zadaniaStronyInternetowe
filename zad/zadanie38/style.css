@@ -20,7 +20,7 @@ header, footer {
 section {
     padding: 2em;
     margin: 1em;
-    border-radius: 1rem;
+    border-radius: 1em;
     background-color: rgba(0, 0, 0, 0.2);
 }
 
@@ -30,12 +30,12 @@ section * {
 
 button {
     border: 1px solid #000;
-    border-radius: 1rem;
-    padding: .5rem;
+    border-radius: 1em;
+    padding: .5em;
 }
 
 section div {
-    margin: 1rem;
+    margin: 1em;
 }
 
 button, input {
