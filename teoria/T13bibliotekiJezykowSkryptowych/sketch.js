@@ -2,7 +2,7 @@ function setup() {
     createCanvas(500, 500);
 }
 
-let x = 150
+let x = 100
 let y = 450
 
 function draw() {
@@ -14,7 +14,6 @@ function draw() {
     fill(77,166,255)
     square(x+20, y-170, 50)
     square(x+130, y-170, 50)
-    quad(x+220,y-170,)
     fill(78,45,19)
     rect(x+75, y-75, 50, 75)
     fill(165,42,42)
