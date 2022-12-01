@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="175e5469-f7d7-4e68-86c3-5ac7751f705d" name="Changes" comment="zad14">
-      <change afterPath="$PROJECT_DIR$/inne/przykladyZPodrecznika/przyklad_3_91/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inne/przykladyZPodrecznika/przyklad_3_92/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inne/przykladyZPodrecznika/przyklad_3_93/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="175e5469-f7d7-4e68-86c3-5ac7751f705d" name="Changes" comment="przyklady z podrecznika" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +57,7 @@
       <workItem from="1669276595444" duration="1920000" />
       <workItem from="1669325568705" duration="655000" />
       <workItem from="1669400599104" duration="51000" />
-      <workItem from="1669878452433" duration="7821000" />
+      <workItem from="1669878452433" duration="8079000" />
     </task>
     <task id="LOCAL-00001" summary="p5js">
       <created>1669275561607</created>
@@ -85,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669278521205</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="przyklady z podrecznika">
+      <created>1669886840770</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669886840770</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="p5js" />
-    <option name="LAST_COMMIT_MESSAGE" value="p5js" />
+    <MESSAGE value="przyklady z podrecznika" />
+    <option name="LAST_COMMIT_MESSAGE" value="przyklady z podrecznika" />
   </component>
 </project>
