@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="175e5469-f7d7-4e68-86c3-5ac7751f705d" name="Changes" comment="przyklady z podrecznika" />
+    <list default="true" id="175e5469-f7d7-4e68-86c3-5ac7751f705d" name="Changes" comment="zadanie 44">
+      <change afterPath="$PROJECT_DIR$/zad/zadanie60/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad/zadanie60/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad/zadanie60/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "proofread",
+    "settings.editor.selected.configurable": "preferences.updates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -58,6 +63,9 @@
       <workItem from="1669325568705" duration="655000" />
       <workItem from="1669400599104" duration="51000" />
       <workItem from="1669878452433" duration="8079000" />
+      <workItem from="1669971088808" duration="22000" />
+      <workItem from="1669972673896" duration="41000" />
+      <workItem from="1670483597952" duration="3975000" />
     </task>
     <task id="LOCAL-00001" summary="p5js">
       <created>1669275561607</created>
@@ -87,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669886840770</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="zadanie 43">
+      <created>1670485300521</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670485300521</updated>
+    </task>
+    <task id="LOCAL-00006" summary="zadanie 44">
+      <created>1670486476418</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670486476418</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +129,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="p5js" />
     <MESSAGE value="przyklady z podrecznika" />
-    <option name="LAST_COMMIT_MESSAGE" value="przyklady z podrecznika" />
+    <MESSAGE value="zadanie 43" />
+    <MESSAGE value="zadanie 44" />
+    <option name="LAST_COMMIT_MESSAGE" value="zadanie 44" />
   </component>
 </project>
