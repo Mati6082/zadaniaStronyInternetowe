@@ -1,0 +1,30 @@
+*::before,
+*,
+*::after {
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+    color: #023047;
+}
+
+body {
+    background: #bde0fe;
+    margin: 0;
+    font-size: 18px;
+}
+
+h1 {
+    margin: 0;
+}
+
+header,
+footer {
+    background: #fb8500;
+    padding: 1em;
+}
+
+section {
+    padding: 1em;
+    background: rgba(0, 0, 0, .1);
+    margin: 1em;
+    border-radius: 1.5em;
+}
