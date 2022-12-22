@@ -1,0 +1,56 @@
+*::before,
+*,
+*::after {
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+    color: #222222;
+}
+
+body {
+    font-size: 18px;
+    background: #CC55CC55;
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+header,
+footer {
+    background: rgba(0, 0, 0, .1);
+    padding: 1em;
+}
+
+section {
+    padding: 1em;
+}
+
+input,
+button {
+    background: #CC55CC55;
+    border: solid #222 2px;
+    padding: .2em;
+    border-radius: .5em;
+}
+
+input:focus,
+input:hover {
+    outline: 0;
+}
+
+#minus {
+    color: #f0000c;
+}
+
+#lower {
+    color: green;
+}
+
+#higher {
+    color: red;
+}
+
+#same {
+    color: blue;
+}
