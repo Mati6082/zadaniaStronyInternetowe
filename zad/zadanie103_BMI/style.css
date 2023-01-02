@@ -30,3 +30,14 @@ section {
 .input {
     padding: .1em;
 }
+
+input, button {
+    background: #c5c5c5;
+    border: 3px solid black;
+    border-radius: .5em;
+    padding: .25em;
+}
+
+input:focus, input:hover, button:hover {
+    outline: 3px solid rgba(255, 255, 255, .5);
+}
