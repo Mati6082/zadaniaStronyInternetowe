@@ -1,0 +1,32 @@
+*, *::before, *::after {
+    font-family: Helvetica sans-serif;
+    box-sizing: border-box;
+    color: #222;
+}
+
+body {
+    background: #c5c5c5;
+    font-size: 18px;
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+header, footer {
+    text-align: center;
+    background: rgba(0, 0, 0, .3);
+    padding: 1em;
+}
+
+section {
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+    background: rgba(0, 0, 0, .1);
+}
+
+.input {
+    padding: .1em;
+}
