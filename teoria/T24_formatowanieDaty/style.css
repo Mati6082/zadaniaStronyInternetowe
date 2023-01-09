@@ -1,0 +1,33 @@
+*::before, *, *::after {
+    box-sizing: border-box;
+}
+
+footer, header {
+    background: #36454F;
+    color: #c5c5c5;
+    padding: 1em;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+button {
+    background: #36454F;
+    color: #c5c5c5;
+    padding: 1em;
+    margin: 1em;
+
+}
+
+footer, header, body {
+    text-align: center;
+}
+
+#wynik {
+    font-size: 120%;
+}
