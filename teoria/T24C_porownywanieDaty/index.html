@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Porównywanie dat</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.2/css/bulma.min.css">
 </head>
 <body>
 <header>
@@ -13,10 +12,16 @@
     <h2>Autor: Mateusz Pakuła 2ir02</h2>
 </header>
 <section>
-    <label for="imie1">Imie jeden </label><input type="text" id="imie1">
-    <label for="imie2">Imie dwa</label><input type="text" id="imie2">
-    <label for="urodziny1">Urodziny jeden</label><input type="text" id="urodziny1">
-    <label for="urodziny2">Urodziny dwa</label><input type="text" id="urodziny2">
+    <div class="osoba">
+        <label for="imie1">Imie jeden </label><input type="text" id="imie1">
+        <label for="urodziny1">Urodziny jeden</label><input type="text" id="urodziny1">
+    </div>
+    <div class="osoba">
+        <label for="imie2">Imie dwa</label><input type="text" id="imie2">
+        <label for="urodziny2">Urodziny dwa</label><input type="text" id="urodziny2">
+    </div>
+    <button>Porównaj</button>
+    <p id="wynik"></p>
 </section>
 <footer>
     <p>Mateusz Pakuła &copy; 2023</p>

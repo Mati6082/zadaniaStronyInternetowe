@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    font-family: Helvetica sans-serif;
+}
+
+header, footer {
+    text-align: center;
+    background: #222222;
+    padding: 1em;
+    color: #c5c5c5;
+}
+
+body, h1 {
+    margin: 0;
+}

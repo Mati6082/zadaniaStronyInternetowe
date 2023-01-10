@@ -1,16 +1,21 @@
-const date1 = new Date("22 March 2015");
-const date2 = new Date("10 September 2010");
-const date3 = new Date("10 September 2010");
+const btn = document.querySelector(`button`)
+let wynik = document.querySelector(`#wynik`)
 
-console.log(date1 < date2);
-
-console.log(date2.getTime() === date3.getTime());
-
-const birthdate = new Date(USER.birthdate);
-const today = new Date();
-
-if(today.getMonth() === birthdate.getMonth() && today.getDate() === birthdate.getDate()) {
-    console.log("Dzisiaj urodziny!");
-} else {
-    console.log("Dzisiaj nie ma urodzin :/")
-}
+btn.addEventListener(`click`, () => {
+    
+    let imie1 = document.querySelector(`#imie1`).value
+    let urodziny1 = new Date(document.querySelector(`#urodziny1`).value)
+    
+    let imie2 = document.querySelector(`#imie2`).value
+    let urodziny2 = new Date(document.querySelector(`#urodziny2`).value)
+    
+    if (urodziny1.getTime() < urodziny2.getTime()) {
+        wynik.innerHTML = `${imie1} urodził/a się wcześniej niż ${imie2}`
+    }
+    else if (urodziny1.getTime() > urodziny2.getTime()) {
+        wynik.innerHTML = `${imie2} urodził/a się wcześniej niż ${imie1}`
+    }
+    else {
+        wynik.innerHTML = `${imie1} urodził/a się w ten sam dzień co ${imie2}`
+    }
+})
