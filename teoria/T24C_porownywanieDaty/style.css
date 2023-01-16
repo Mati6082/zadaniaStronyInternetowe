@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    font-family: Helvetica sans-serif;
+    font-family: sans-serif;
 }
 
 header, footer {
@@ -12,4 +12,15 @@ header, footer {
 
 body, h1 {
     margin: 0;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    margin: 1em;
+    align-items: center;
+}
+
+.osoba {
+    padding: .5em;
 }
