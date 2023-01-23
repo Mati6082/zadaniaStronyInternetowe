@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Obiekt osoba</title>
+</head>
+<body>
+<script>
+    var osoba = {
+        nazwisko: "Nowacki",
+        imie: "Marek",
+        zawod: "informatyk",
+        pokaz: function () {
+            document.write(this.nazwisko + ' ' + this.imie + '<br>');
+        }
+    };
+    let zwierze = {
+        gatunek: "Pies",
+        imie: "Merry",
+        plec: "suka",
+        wiek: 5,
+        pokaz: function () {
+            document.write(`Gatunek: ${this.gatunek}, imie: ${this.imie}, płeć: ${this.plec}, wiek: ${this.wiek}<br>`)
+        }
+    }
+
+    osoba.pokaz();
+    zwierze.pokaz();
+</script>
+</body>
+</html>
