@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function Osoba(nazwisko_k, imie_k, zawod_k) {
+        this.nazwisko = nazwisko_k;
+        this.imie = imie_k;
+        this.zawod = zawod_k;
+        this.wypisz = function () {
+            alert(this.nazwisko + ' ' + this.imie);
+        };
+        this.info = function () {
+            document.write(this.imie + ' ' + this.nazwisko + '<br>zawód: ' + this.zawod + '<br>')
+        }
+    }
+
+    function Zwierze(wlasciciel, gatunek, imie) {
+        this.gatunek = gatunek
+        this.imie = imie
+        this.wlasciciel = wlasciciel
+        this.wypisz = function () {
+            document.write(`${this.gatunek} ma na imie ${this.imie}<br>Właściciel:<br>`)
+            this.wlasciciel.info();
+        }
+    }
+
+    let osoba1 = new Osoba('Kowalski', 'Jan', 'kierowca');
+    let osoba2 = new Osoba('Nowak', 'Anna', 'sekretarka');
+
+    let pies = new Zwierze(osoba1, 'pies', 'Żaba')
+
+    //osoba1.wypisz();
+    //osoba2.info();
+
+    pies.wypisz()
+</script>
+</body>
+</html>
