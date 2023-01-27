@@ -16,17 +16,17 @@ class Punkt {
 
 class Odcinek {
     nazwa
-    punkt1 = new Punkt()
-    punkt2 = new Punkt()
+    punkt1
+    punkt2
     
     constructor(nazwa, punkt_1, punkt_2) {
         this.nazwa = nazwa
-        this.punkt1 = punkt_1
-        this.punkt2 = punkt_2
+        this.punkt1 = new Punkt(punkt_1)
+        this.punkt2 = new Punkt(punkt_2)
     }
     
     info = function () {
-        document.write(`Odcinek o punktach ${punkt1.nazwa} i ${punkt2.nazwa} ma długość `)
+        document.write(`Odcinek o punktach ${this.punkt1.nazwa} i ${this.punkt2.nazwa} ma długość `)
     }
     
     dlugosc = function () {
