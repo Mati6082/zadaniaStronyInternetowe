@@ -12,6 +12,6 @@ input.type = "text"
 input.name = "pesel"
 input.placeholder = "Pesel"
 
-form.insertBefore(form.lastElementChild, div)
+//form.insertBefore(form.lastElementChild, div)
 div.append(div_in)
 div_in.append(input)
