@@ -1,0 +1,43 @@
+* {
+    font-family: Rubik, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    color: #c5c5c5;
+    background: #222;
+    margin: 0;
+}
+
+body h1 {
+    margin: 0;
+}
+
+footer {
+    bottom: 0;
+    text-align: center;
+}
+
+footer, header {
+    position: fixed;
+    background: #000;
+    width: 100%;
+}
+
+header {
+    top: 0;
+    padding: 2em 1em;
+}
+
+#head {
+    padding: 2em 1em;
+    background: #111;
+}
+
+#content {
+    padding: 1em;
+}
+
+#szachownica {
+    padding: 1em 0;
+}
