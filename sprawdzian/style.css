@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+    color: #333333;
+    background: #bde0fe;
+}
+
+header, footer {
+    text-align: center;
+    background: rgba(0, 0, 0, .1);
+    padding: 1em;
+    margin: 1em;
+    border-radius: 1em;
+}
+
+#main {
+    padding: 1em;
+    margin: 1em 1em 1em 5em;
+}
+
+input, button {
+    background: rgba(0, 0, 0, .1);
+    border: solid #023047 1px;
+    padding: .2em;
+    border-radius: .2em;
+}
+
+input:focus {
+    border: solid #023047 1px;
+    border-radius: .2em;
+}
+
+button:hover {
+    background: rgba(0, 0, 0, .15);
+}
