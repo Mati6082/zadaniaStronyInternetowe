@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    font-family: Rubik, sans-serif;
+}
+
+body {
+    background: #666;
+    margin: 0;
+}
+
+#content {
+    background: #999;
+    width: 70%;
+    margin: auto;
+    min-height: 100vh;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header h2 {
+    padding-bottom: 1em;
+    border-bottom: dashed #111 3px;
+}
+
+header p, footer p {
+    margin: 0;
+}
+
+header, footer {
+    background: #828282;
+    padding: 1em;
+}
+
+header {
+    position: sticky;
+    top: 0;
+}
+
+footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 70%;
+}
+
+#main {
+    padding: 1em;
+    display: block;
+}
+
+@media screen and (max-width: 1000px) {
+    #content {
+        width: auto;
+        margin: 0;
+    }
+    footer {
+        width: 100%;
+    }
+}
