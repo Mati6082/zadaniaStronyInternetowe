@@ -1,0 +1,15 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+body div {
+    background: #333333;
+    aspect-ratio: 1;
+    height: 50vh;
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+}
