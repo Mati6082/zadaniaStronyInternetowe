@@ -1,0 +1,1 @@
+$('.thing').hide('fast', 'linear')
