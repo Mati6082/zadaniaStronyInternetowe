@@ -1,0 +1,42 @@
+* {
+    font-family: Rubik, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div {
+    width: 200px;
+    margin: 1em;
+    aspect-ratio: 1;
+    line-height: 200px;
+}
+
+span {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
+
+#box {
+    background: orange;
+}
+
+.thing {
+    background: yellowgreen;
+    border-top-left-radius: 100%;
+}
+
+button {
+    padding: .5em;
+    background: darkred;
+    border-radius: .5em;
+    color: #c5c5c5;
+    font-size: 100%;
+}
