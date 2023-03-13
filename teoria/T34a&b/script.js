@@ -1,5 +1,5 @@
-const a = 212324
-const b = 213769479
+const a = 234
+const b = 315
 
 const nwd = (a, b) => {
     while (a !== b) {
