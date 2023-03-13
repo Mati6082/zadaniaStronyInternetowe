@@ -1,0 +1,58 @@
+body {
+    color: #222;
+    background: #c5c5c5;
+    font-family: Rubik, sans-serif;
+    font-size: 24px;
+    margin: 0;
+}
+
+#menu {
+    background: burlywood;
+    padding: 1em;
+    width: 30%;
+}
+
+#menu p {
+    font-weight: bolder;
+    margin: 0;
+}
+
+#banner {
+    background: darkred;
+    color: darkgoldenrod;
+    width: 70%;
+    text-align: center;
+}
+
+#banner h1, #banner h2, #menu ul {
+    margin: 0;
+    padding: .5em;
+}
+
+header {
+    display: flex;
+}
+
+section {
+    padding: 2em;
+}
+
+img {
+    width: 30%;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer {
+    background: #888;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#main {
+    display: flex;
+    flex-direction: row;
+}
