@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+    color: #222222;
+}
+
+body {
+    font-size: 18px;
+    background: #CC55CC55;
+    margin: 0;
+}
