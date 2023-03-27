@@ -1,11 +1,30 @@
 * {
     box-sizing: border-box;
-    font-family: Helvetica, sans-serif;
+    font-family: Rubik, Helvetica, sans-serif;
     color: #222222;
 }
 
 body {
     font-size: 18px;
-    background: #CC55CC55;
+    background: #eec6ee;
     margin: 0;
+    height: 100vh;
+}
+
+#input {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    background: #e9a0e3;
+    margin: 0 30%;
+    padding: 5em;
+    border-radius: 1em;
+}
+
+input, button {
+    padding: .3em;
+    border-radius: .5em;
+    border: solid 2px #000;
+    background: #eec6ee;
 }
