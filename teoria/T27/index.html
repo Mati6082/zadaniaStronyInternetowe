@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>T27</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>Suma przekątnych</h1>
+    <h2>Autor: Mateusz Pakuła 2ir02</h2>
+    <p>
+        Napisz program, który do dwuwymiarowej tablicy o wymiarach 3 × 3 wpisuje liczby pseudolosowe z zakresu <0,9>,
+        wyświetla tą tablicę, a następnie oblicza sumę liczb rozmieszczonych wzdłuż przekątnych:
+    </p>
+    <ol>
+        <li>Przekątna LG_PD - lewy górny i prawy dolny,</li>
+        <li>Przekątna LD_PG - lewy dolny i prawy górny.</li>
+    </ol>
+    <p>
+        Program wyświetla te sumy i odpowiada na pytanie, która z nich jest większa, lub czy są równe.
+    </p>
+</header>
+
+<section id="main">
+    <table>
+        <tr>
+            <td id="00"></td>
+            <td id="01"></td>
+            <td id="02"></td>
+        </tr>
+        <tr>
+            <td id="10"></td>
+            <td id="11"></td>
+            <td id="12"></td>
+        </tr>
+        <tr>
+            <td id="20"></td>
+            <td id="21"></td>
+            <td id="22"></td>
+        </tr>
+    </table>
+
+    <p id="wynik"></p>
+</section>
+
+<footer>
+    <p>Mateusz Pakuła &copy;</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
