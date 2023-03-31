@@ -22,14 +22,11 @@ Suma przekątnej LG_PD: ${sum_LG_PD},<br>
 Suma przekątnej LD_PG: ${sum_LD_PG},<br>
 `
 
-document.querySelector("#suma_LG_PD").innerHTML = `Suma na przekątnej LG_PD: ${suma_LG_PD}`
-document.querySelector("#suma_LD_PG").innerHTML = `Suma na przekątnej LD_PG: ${suma_LD_PG}`
 
-
-if (suma_LG_PD > suma_LD_PG) {
-    document.querySelector("#wynik").innerHTML = "Suma na przekątnej LG_PD jest większa."
-} else if (suma_LD_PG > suma_LG_PD) {
-    document.querySelector("#wynik").innerHTML = "Suma na przekątnej LD_PG jest większa."
+if (sum_LG_PD > sum_LD_PG) {
+    wynik.innerHTML += "Suma przekątnej LG_PD jest większa."
+} else if (sum_LD_PG > sum_LG_PD) {
+    wynik.innerHTML += "Suma przekątnej LD_PG jest większa."
 } else {
-    document.querySelector("#wynik").innerHTML = "Sumy na przekątnych są równe."
+    wynik.innerHTML += "Sumy przekątnych są równe."
 }
