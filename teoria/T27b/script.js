@@ -50,7 +50,7 @@ for (let i = 0; i < 7; i++) {
 wynik.innerHTML += `
 "b"wystąpiło najwięcej razy w rzędzie ${maxRow + 1}`
 
-for (let i = 0; i < 7 * 7; i++) {
+for (let i = 0; i < 7; i++) {
         if (i !== maxRow && ileRazyB[i] === max) {
             wynik.innerHTML += `, ${i + 1}`
         }
