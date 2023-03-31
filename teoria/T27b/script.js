@@ -38,9 +38,9 @@ for (let i = 0; i < 7; i++) {
     }
 }
 
-max = ileRazyB[0]
+let max = ileRazyB[0]
 let maxRow = 0
-for (let i = 0; i < 7 * 7; i++) {
+for (let i = 0; i < 7; i++) {
     if (ileRazyB[i] > max) {
         max = ileRazyB[i]
         maxRow = i
