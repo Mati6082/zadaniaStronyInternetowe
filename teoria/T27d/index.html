@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>T27d</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>Tablica znaków i słowa</h1>
+    <h2>Autor: Mateusz Pakuła 2ir02</h2>
+    <p>
+        Napisz program, w którym do jednowymiarowej tablicy znakowej wpisanych jest 10 znaków podanych przez
+        użytkownika, a następnie:
+    </p>
+    <ul>
+        <li>pyta użytkownika o długość losowego słowa oraz ilość słów,</li>
+        <li>wyświetla wzorcową 10 znakową tablicę,</li>
+        <li>wyświetla podaną ilość słów składających się z podanej ilości znaków wygenerowanych ze znaków zapisanych w
+            10-elementowej tablicy stworzonej na początku programu.
+        </li>
+    </ul>
+</header>
+
+<section id="main">
+    <label for="znaki">Podaj 10 znaków oddzielonych spacją: </label><input type="text" id="znaki">
+    <label for="dlugosc">Podaj długość losowego słowa: </label><input type="number" id="dlugosc">
+    <label for="ilosc">Podaj ilość słów: </label><input type="number" id="ilosc">
+    <button>Generuj</button>
+    <p id="wynik"></p>
+</section>
+
+<footer>
+    <p>Mateusz Pakuła &copy; 2023</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
