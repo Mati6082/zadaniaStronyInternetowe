@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: Rubik, sans-serif;
+    background: deepskyblue;
+}
+
+header, footer {
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+    background: #bde0fe;
+}
+
+#main {
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+    background: skyblue;
+    text-align: center;
+}
+
+#main * {
+    margin: .2em;
+}
+
+button, input {
+    background: #bde0fe;
+    border: solid #333 2px;
+    border-radius: .3em;
+}
