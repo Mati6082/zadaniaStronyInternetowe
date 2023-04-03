@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>T32b</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>Cena strzyżenia</h1>
+    <h2>Autor: Mateusz Pakuła 2ir02</h2>
+    <p>
+        Wymagania dotyczące skryptu:
+    </p>
+    <ul>
+        <li>Napisany w języku wykonywanym po stronie przeglądarki</li>
+        <li>Uruchamia się po wciśnięciu przycisku na stronie fryzura.html</li>
+        <li>Podaje cenę strzyżenia w zależności od wyboru dokonanego przez pola radio zgodnie z cennikiem w tabeli</li>
+        <li>‒ Wyświetla wynik działania pod przyciskiem według wzoru: „Cena strzyżenia: &lt;wartość&gt;”, gdzie &lt;wartość&gt;
+            oznacza cenę strzyżenia dla wskazanej długości włosów.
+        </li>
+    </ul>
+    <p>
+        Długość włosów/ Cena<br>
+        Krótkie 25 | Średnie 30 | Półdługie 40 | Długie 50
+    </p>
+</header>
+
+<section id="main">
+    <h3>Dziś promocja na strzyżenie włosów</h3>
+    <form>
+        <input type="radio" name="dlugosc" value="25"><span>Krótkie</span><br>
+        <input type="radio" name="dlugosc" value="30"><span>Średnie</span><br>
+        <input type="radio" name="dlugosc" value="40"><span>Półdługie</span><br>
+        <input type="radio" name="dlugosc" value="50"><span>Długie</span><br>
+    </form>
+    <button>Odkryj promocję</button>
+    <p id="wynik"></p>
+</section>
+
+<footer>
+    <p>Mateusz Pakuła &copy; 2023</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
