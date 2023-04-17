@@ -1,9 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="175e5469-f7d7-4e68-86c3-5ac7751f705d" name="Changes" comment="zadanie 82">
+    <list default="true" id="175e5469-f7d7-4e68-86c3-5ac7751f705d" name="Changes" comment="t32c tworzenie butów">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/JQuery.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/Lorem Ipsum.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/arkusz.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/auta.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/ee_09_2022_01_06_SG_kolor.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/gibraltar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/konfigurator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/kw1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/kw2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/kw3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/kw4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/kwerendy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/styl6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/baza.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/import.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/inf_03_2022_06_02_SG_kolor.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/kw1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/kw2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/kw3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/kw4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/kw5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/kwerendy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/obliczenia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/samochod.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/stacja.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/styl2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/znak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/database/import.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/database/kw1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/database/kw2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/database/kw3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/database/kw4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/database/kwerendy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/database/sklep.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/ee_09_2022_06_02_SG_kolor.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/strona/czcionki.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/strona/kolory.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/strona/kolory.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/strona/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/strona/styl2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/strona/style.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zad/zadanie82/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/zad/zadanie82/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teoria/T224/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/teoria/T224/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,11 +59,17 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -31,22 +82,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/2ir02/Documents/GitHub/zadaniaStronyInternetowe/egzaminalne/zad2",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\2ir02_k04\Documents\GitHub\zadaniaStronyInternetowe\inne\przykladyZPodrecznika\przyklad_3_83" />
-      <recent name="C:\Users\2ir02_k04\Documents\GitHub\zadaniaStronyInternetowe\inne\przykladyZPodrecznika\przyklad_3_23" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\zad2" />
+      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne" />
+      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\teoria\T27c" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\zad2\kwerendy" />
+      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\zad2\strona" />
+      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\JQuery\JQ2" />
+      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\teoria\T25obiekty" />
+      <recent name="C:\Users\2ir02_k04\Documents\GitHub\zadaniaStronyInternetowe\inne\przykladyZPodrecznika\przyklad_3_83" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/zadaniaStronyInternetowe.iml/teoria/T24FunkcjeWbudowane/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/zadaniaStronyInternetowe.iml/inne/Przyklady/js/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -67,6 +147,34 @@
       <workItem from="1670490144682" duration="28000" />
       <workItem from="1670490652801" duration="910000" />
       <workItem from="1670491664476" duration="75000" />
+      <workItem from="1674461569621" duration="4502000" />
+      <workItem from="1674560916369" duration="1241000" />
+      <workItem from="1674807649891" duration="1161000" />
+      <workItem from="1675065756832" duration="4632000" />
+      <workItem from="1675166056854" duration="1456000" />
+      <workItem from="1675414436322" duration="2027000" />
+      <workItem from="1675416505283" duration="46000" />
+      <workItem from="1676019171618" duration="2313000" />
+      <workItem from="1677484581868" duration="4330000" />
+      <workItem from="1677584600573" duration="1579000" />
+      <workItem from="1677833296863" duration="2592000" />
+      <workItem from="1677844129551" duration="1895000" />
+      <workItem from="1678089629973" duration="1750000" />
+      <workItem from="1678094434616" duration="678000" />
+      <workItem from="1678189441817" duration="1728000" />
+      <workItem from="1678438147954" duration="843000" />
+      <workItem from="1678439020727" duration="1709000" />
+      <workItem from="1678694050801" duration="338000" />
+      <workItem from="1679043217614" duration="1385000" />
+      <workItem from="1679298994684" duration="130000" />
+      <workItem from="1679299263983" duration="4000" />
+      <workItem from="1679299595587" duration="20000" />
+      <workItem from="1679647951674" duration="2187000" />
+      <workItem from="1680000410878" duration="937000" />
+      <workItem from="1680248980164" duration="2450000" />
+      <workItem from="1680504742489" duration="5688000" />
+      <workItem from="1680604986349" duration="1186000" />
+      <workItem from="1681714757970" duration="5076000" />
     </task>
     <task id="LOCAL-00001" summary="p5js">
       <created>1669275561607</created>
@@ -124,7 +232,189 @@
       <option name="project" value="LOCAL" />
       <updated>1670491449568</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="zadanie T25 3.44">
+      <created>1674463736773</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674463736773</updated>
+    </task>
+    <task id="LOCAL-00010" summary="zadanie T25 3.46 zwierze i wlasciciel">
+      <created>1674561533471</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674561533471</updated>
+    </task>
+    <task id="LOCAL-00011" summary="zadanie T25 czolg">
+      <created>1674562162263</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674562162263</updated>
+    </task>
+    <task id="LOCAL-00012" summary="zadanie T25 punkt_odcinek">
+      <created>1674808682634</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674808682634</updated>
+    </task>
+    <task id="LOCAL-00013" summary="zadanie T25 punkt_odcinek">
+      <created>1674808802060</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674808802060</updated>
+    </task>
+    <task id="LOCAL-00014" summary="js">
+      <created>1675070945934</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675070945934</updated>
+    </task>
+    <task id="LOCAL-00015" summary="js">
+      <created>1675070958786</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675070958786</updated>
+    </task>
+    <task id="LOCAL-00016" summary="wartosci pol formulazu">
+      <created>1675416536282</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1675416536282</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update">
+      <created>1677484800956</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1677484800956</updated>
+    </task>
+    <task id="LOCAL-00018" summary="elementy dokumentu">
+      <created>1677484876272</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1677484876272</updated>
+    </task>
+    <task id="LOCAL-00019" summary="do spr">
+      <created>1677489343241</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1677489343241</updated>
+    </task>
+    <task id="LOCAL-00020" summary="walidacja formularza">
+      <created>1677586177465</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1677586177465</updated>
+    </task>
+    <task id="LOCAL-00021" summary="spr">
+      <created>1677835904689</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1677835904689</updated>
+    </task>
+    <task id="LOCAL-00022" summary="spr">
+      <created>1677846034237</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1677846034237</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Obsługa zdarzeń">
+      <created>1678095088066</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1678095088066</updated>
+    </task>
+    <task id="LOCAL-00024" summary="jquery">
+      <created>1678191173765</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1678191173765</updated>
+    </task>
+    <task id="LOCAL-00025" summary="jquery2">
+      <created>1678440723398</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1678440723398</updated>
+    </task>
+    <task id="LOCAL-00026" summary="jquery2">
+      <created>1678440730828</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1678440730828</updated>
+    </task>
+    <task id="LOCAL-00027" summary="T24">
+      <created>1679044530665</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1679044530665</updated>
+    </task>
+    <task id="LOCAL-00028" summary="zadania">
+      <created>1679650137705</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1679650137705</updated>
+    </task>
+    <task id="LOCAL-00029" summary="t27">
+      <created>1680249257097</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1680249257097</updated>
+    </task>
+    <task id="LOCAL-00030" summary="t27c">
+      <created>1680251424746</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1680251424746</updated>
+    </task>
+    <task id="LOCAL-00031" summary="t32b fryzura">
+      <created>1680510643072</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1680510643072</updated>
+    </task>
+    <task id="LOCAL-00032" summary="t27d slowa losowane">
+      <created>1680510670231</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1680510670231</updated>
+    </task>
+    <task id="LOCAL-00033" summary="t32 obsluga formularza">
+      <created>1680510701239</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1680510701239</updated>
+    </task>
+    <task id="LOCAL-00034" summary="t32c tworzenie butów">
+      <created>1680606136911</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1680606136911</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,12 +432,31 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="p5js" />
-    <MESSAGE value="przyklady z podrecznika" />
-    <MESSAGE value="zadanie 43" />
     <MESSAGE value="zadanie 44" />
     <MESSAGE value="zadanie 60" />
     <MESSAGE value="zadanie 82" />
-    <option name="LAST_COMMIT_MESSAGE" value="zadanie 82" />
+    <MESSAGE value="zadanie T25 3.44" />
+    <MESSAGE value="zadanie T25 3.46 zwierze i wlasciciel" />
+    <MESSAGE value="zadanie T25 czolg" />
+    <MESSAGE value="zadanie T25 punkt_odcinek" />
+    <MESSAGE value="js" />
+    <MESSAGE value="wartosci pol formulazu" />
+    <MESSAGE value="update" />
+    <MESSAGE value="elementy dokumentu" />
+    <MESSAGE value="do spr" />
+    <MESSAGE value="walidacja formularza" />
+    <MESSAGE value="spr" />
+    <MESSAGE value="Obsługa zdarzeń" />
+    <MESSAGE value="jquery" />
+    <MESSAGE value="jquery2" />
+    <MESSAGE value="T24" />
+    <MESSAGE value="zadania" />
+    <MESSAGE value="t27" />
+    <MESSAGE value="t27c" />
+    <MESSAGE value="t32b fryzura" />
+    <MESSAGE value="t27d slowa losowane" />
+    <MESSAGE value="t32 obsluga formularza" />
+    <MESSAGE value="t32c tworzenie butów" />
+    <option name="LAST_COMMIT_MESSAGE" value="t32c tworzenie butów" />
   </component>
 </project>

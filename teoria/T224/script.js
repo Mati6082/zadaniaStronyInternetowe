@@ -14,5 +14,5 @@ btn.addEventListener(`click`, function () {
     else {
         wynik.innerHTML = `<span id="same">${a}</span>, <span id="same">${b}</span>`
     }
-    // W PLIKU style.css ZMIENIA KOLOR ID lower, higher i same NA ODPOWIEDNIE
+    // W PLIKU style.html ZMIENIA KOLOR ID lower, higher i same NA ODPOWIEDNIE
 })

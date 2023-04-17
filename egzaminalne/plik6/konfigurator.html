@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Style w Javascript</title>
+    <link rel="stylesheet" href="styl6.css">
+</head>
+<body>
+
+<section id="lewy">
+    <h1>Konfigurator stylu</h1>
+    <p>Podaj kolor tła</p>
+    <button id="indigo">Indigo</button>
+    <button id="steel-blue">SteelBlue</button>
+    <button id="olive">Olive</button>
+    <p>Podaj kolor czcionki</p>
+    <select id="kolor-czc" onchange="kolor_czc()">
+        <option value="white">White</option>
+        <option value="tan">Tan</option>
+        <option value="bisque">Bisque</option>
+        <option value="plum">Plum</option>
+    </select>
+    <p>Podaj rozmiar czcionki w procentach, np. 200%</p>
+    <input id="rozmiar-czc" type="text" value="100%">
+    <p>Czy rysunek ma mieć ramkę?</p>
+    <label for="ramka">Rysuj ramkę</label>
+    <input type="checkbox" id="ramka" checked onchange="ramka()">
+    <p>Jaki jest typ punktora listy?</p>
+    <form id="typ-listy">
+        <label for="dysk">dysk</label><input type="radio" id="dysk" name="punktor">
+        <label for="kwadrat">kwadrat</label><input type="radio" id="kwadrat" name="punktor">
+        <label for="okrag">okrąg</label><input type="radio" id="okrag" name="punktor">
+    </form>
+</section>
+<section id="prawy">
+    <img src="gibraltar.jpg" alt="półwysep Gibraltar">
+    <ul>
+        <li>element 1</li>
+        <li>element 2</li>
+        <li>element 3</li>
+    </ul>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
+        laborum.
+    </p>
+</section>
+<footer>
+    <p>Autor: Mateusz Pakuła</p>
+</footer>
+
+<script src="script.js"></script>
+</body>

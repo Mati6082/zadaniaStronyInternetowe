@@ -1,0 +1,3 @@
+kw1 select marka, rocznik from samochody where kolor = "niebieski";
+kw2 select COUNT(*) from samochody where stan = "bardzo dobry" and (marka = "Toyota" or marka = "Opel");
+kw3 update samochody set stan = "dobry" where rocznik < 2004;
