@@ -1,0 +1,50 @@
+body {
+    font-family: Helvetica, sans-serif;
+    background: linen;
+    color: #222;
+}
+
+.banner {
+    background: black;
+    color: white;
+    width: 50%;
+    height: 100px;
+    float: left;
+}
+
+#main {
+    padding: 20px;
+}
+
+footer {
+    background: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+table {
+    margin: 40px;
+}
+
+td {
+    padding: 30px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+a {
+    color: #aaa;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+li {
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+    border-bottom: solid white 1px;
+}
