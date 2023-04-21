@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="175e5469-f7d7-4e68-86c3-5ac7751f705d" name="Changes" comment="egzaminowe">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/database/import.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/database/kw1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/database/kw2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/database/kw3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/database/kw4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/database/kwerendy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/database/sklep.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/ee_09_2022_06_02_SG_kolor.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/strona/czcionki.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/strona/kolory.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/strona/kolory.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/strona/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/strona/styl2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/strona/style.html" beforeDir="false" />
-    </list>
+    <list default="true" id="175e5469-f7d7-4e68-86c3-5ac7751f705d" name="Changes" comment="egzaminowe" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,6 +128,7 @@
       <workItem from="1680604986349" duration="1186000" />
       <workItem from="1681714757970" duration="5234000" />
       <workItem from="1681814588400" duration="1540000" />
+      <workItem from="1682063954625" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="p5js">
       <created>1669275561607</created>
@@ -397,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681816113662</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="egzaminowe">
+      <created>1682064135615</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1682064135615</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
