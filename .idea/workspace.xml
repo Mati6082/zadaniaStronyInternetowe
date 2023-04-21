@@ -1,54 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="175e5469-f7d7-4e68-86c3-5ac7751f705d" name="Changes" comment="t32c tworzenie butów">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/JQuery.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/Lorem Ipsum.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/arkusz.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/auta.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/ee_09_2022_01_06_SG_kolor.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/gibraltar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/konfigurator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/kw1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/kw2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/kw3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/kw4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/kwerendy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/plik6/styl6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/baza.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/import.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/inf_03_2022_06_02_SG_kolor.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/kw1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/kw2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/kw3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/kw4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/kw5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/kwerendy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/obliczenia.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/samochod.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/stacja.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/styl2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/pliki2/znak.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/database/import.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/database/kw1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/database/kw2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/database/kw3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/database/kw4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/database/kwerendy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/database/sklep.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/ee_09_2022_06_02_SG_kolor.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/strona/czcionki.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/strona/kolory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/strona/kolory.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/strona/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/strona/styl2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/zad2/strona/style.html" afterDir="false" />
+    <list default="true" id="175e5469-f7d7-4e68-86c3-5ac7751f705d" name="Changes" comment="egzaminowe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teoria/T224/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/teoria/T224/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/database/import.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/database/kw1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/database/kw2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/database/kw3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/database/kw4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/database/kwerendy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/database/sklep.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/ee_09_2022_06_02_SG_kolor.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/strona/czcionki.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/strona/kolory.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/strona/kolory.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/strona/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/strona/styl2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/egzaminalne/zad2/strona/style.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,24 +50,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/2ir02/Documents/GitHub/zadaniaStronyInternetowe/egzaminalne/zad2",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "settings.nodejs",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/2ir02/Documents/GitHub/zadaniaStronyInternetowe/egzaminalne/zad2&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\zad2" />
@@ -174,7 +142,8 @@
       <workItem from="1680248980164" duration="2450000" />
       <workItem from="1680504742489" duration="5688000" />
       <workItem from="1680604986349" duration="1186000" />
-      <workItem from="1681714757970" duration="5076000" />
+      <workItem from="1681714757970" duration="5234000" />
+      <workItem from="1681814588400" duration="1540000" />
     </task>
     <task id="LOCAL-00001" summary="p5js">
       <created>1669275561607</created>
@@ -414,7 +383,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680606136911</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="stare zadania z egzaminow + nowe">
+      <created>1681720325987</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1681720325987</updated>
+    </task>
+    <task id="LOCAL-00036" summary="egzaminowe">
+      <created>1681816113662</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1681816113662</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,8 +415,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="zadanie 44" />
-    <MESSAGE value="zadanie 60" />
     <MESSAGE value="zadanie 82" />
     <MESSAGE value="zadanie T25 3.44" />
     <MESSAGE value="zadanie T25 3.46 zwierze i wlasciciel" />
@@ -457,6 +438,8 @@
     <MESSAGE value="t27d slowa losowane" />
     <MESSAGE value="t32 obsluga formularza" />
     <MESSAGE value="t32c tworzenie butów" />
-    <option name="LAST_COMMIT_MESSAGE" value="t32c tworzenie butów" />
+    <MESSAGE value="stare zadania z egzaminow + nowe" />
+    <MESSAGE value="egzaminowe" />
+    <option name="LAST_COMMIT_MESSAGE" value="egzaminowe" />
   </component>
 </project>
