@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Pogotowie komputerowe</title>
+    <link rel="stylesheet" href="styl.css">
+    <link rel="icon" href="favicon.ico">
+</head>
+<body>
+<header>
+    <img src="animacja.gif">
+</header>
+<div id="menu">
+    <a href="index.html">O nas</a>
+    <a href="kontakt.html">Kontakt</a>
+</div>
+<section id="main">
+    <section class="content">
+    </section>
+    <section class="content" id="middle">
+        <h3>Formularz kontaktowy</h3>
+        <form id="myForm">
+            <table>
+                <tr>
+                    <td>Imię:</td>
+                    <td><input type="text" name="imie"></td>
+                </tr>
+                <tr>
+                    <td>Nazwisko:</td>
+                    <td><input type="text" name="nazwisko"></td>
+                </tr>
+                <tr>
+                    <td>E-mail:</td>
+                    <td><input type="text" name="email"></td>
+                </tr>
+                <tr>
+                    <td>Usługa:</td>
+                    <td><select name="usluga">
+                        <option value="naprawa komputera">naprawa komputera</option>
+                        <option value="odzyskiwanie danych">odzyskiwanie danych</option>
+                        <option value="problemy z oprogramowaniem">problemy z oprogramowaniem</option>
+                        <option value="konfiguracja sieci LAN">konfiguracja sieci LAN</option>
+                        <option value="inne">inne</option>
+                    </select></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><input type="checkbox" name="kopia_zapasowa" checked>Wyślij kopię zapasową</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <button type="reset" id="reset_button">Resetuj</button>
+                        <button type="button" id="submit">Prześlij</button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </section>
+    <section class="content">
+    </section>
+</section>
+<footer>
+    <p>Autor strony: <b>Mateusz Pakuła</b></p>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>

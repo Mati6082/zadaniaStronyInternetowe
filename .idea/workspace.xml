@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="175e5469-f7d7-4e68-86c3-5ac7751f705d" name="Changes" comment="egzaminowe" />
+    <list default="true" id="175e5469-f7d7-4e68-86c3-5ac7751f705d" name="Changes" comment="egzaminowe">
+      <change afterPath="$PROJECT_DIR$/egzaminalne/materialy6/e_14_2019_06_06_kolor.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/materialy6/mysz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/materialy6/strona/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/materialy6/strona/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/materialy6/strona/kontakt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/materialy6/strona/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/materialy6/strona/styl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,36 +43,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/2ir02/Documents/GitHub/zadaniaStronyInternetowe/egzaminalne/zad2&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/2ir02/Documents/GitHub/zadaniaStronyInternetowe/egzaminalne/materialy6/strona",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\zad2" />
+      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\materialy6\strona" />
+      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\materialy6" />
       <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne" />
+      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\zad2" />
       <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\teoria\T27c" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\materialy6\strona" />
       <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\zad2\kwerendy" />
       <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\zad2\strona" />
       <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\JQuery\JQ2" />
       <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\teoria\T25obiekty" />
-      <recent name="C:\Users\2ir02_k04\Documents\GitHub\zadaniaStronyInternetowe\inne\przykladyZPodrecznika\przyklad_3_83" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (1)">
@@ -128,7 +139,10 @@
       <workItem from="1680604986349" duration="1186000" />
       <workItem from="1681714757970" duration="5234000" />
       <workItem from="1681814588400" duration="1540000" />
-      <workItem from="1682063954625" duration="299000" />
+      <workItem from="1682063954625" duration="489000" />
+      <workItem from="1682064633781" duration="3000" />
+      <workItem from="1682064644466" duration="738000" />
+      <workItem from="1682319265545" duration="5641000" />
     </task>
     <task id="LOCAL-00001" summary="p5js">
       <created>1669275561607</created>

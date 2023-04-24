@@ -1,0 +1,54 @@
+body {
+    background: #99ffcc;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    background: #99ff66;
+    height: 200px;
+}
+
+#menu {
+    background: #66ccff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.content {
+    width: 310px;
+    padding: 10px;
+}
+
+footer {
+    background: #66ccff;
+    color: #006666;
+    text-align: right;
+    height: 30px;
+    padding: 20px;
+}
+
+#menu a {
+    color: #006666;
+    padding: 50px;
+    font-size: 200%;
+    text-decoration: none;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+#reset_button {
+    background: #ff0000;
+}
+
+#submit {
+    background: #00ff00;
+}
+
+#main {
+    display: flex;
+    flex-direction: row;
+}
