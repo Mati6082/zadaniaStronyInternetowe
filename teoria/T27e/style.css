@@ -1,0 +1,29 @@
+body {
+    background: #eee;
+    margin: 0;
+    font-family: Rubik, Helvetica, sans-serif;
+}
+
+header, footer {
+    text-align: center;
+    background: rgba(0, 0, 0, .1);
+    padding: 1em;
+    margin: 1em;
+    border-radius: 1em;
+}
+
+#main, table {
+    background: rgba(0, 0, 0, .05);
+    padding: 1em;
+    margin: 1em;
+    border-radius: 1em;
+}
+
+td {
+    border-radius: .7em;
+    border: solid #333 3px;
+    padding: 1em;
+    min-width: 1em;
+    min-height: 1em;
+    text-align: center;
+}
