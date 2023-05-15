@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="175e5469-f7d7-4e68-86c3-5ac7751f705d" name="Changes" comment="egzaminowe">
-      <change afterPath="$PROJECT_DIR$/egzaminalne/materialy6/e_14_2019_06_06_kolor.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/materialy6/mysz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/materialy6/strona/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/materialy6/strona/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/materialy6/strona/kontakt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/materialy6/strona/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzaminalne/materialy6/strona/styl.css" afterDir="false" />
+    <list default="true" id="175e5469-f7d7-4e68-86c3-5ac7751f705d" name="Changes" comment="egzamin2">
+      <change afterPath="$PROJECT_DIR$/egzaminalne/egzamin2/bazaDanych/egzamin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/egzamin2/bazaDanych/egzamin2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/egzamin2/bazaDanych/kwerendy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/egzamin2/ee_09_2020_06_05_SG_kolor.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/egzamin2/strona/fryzura.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/egzamin2/strona/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/egzamin2/strona/obraz1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/egzamin2/strona/obraz2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/egzamin2/strona/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/egzaminalne/egzamin2/strona/styl2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,24 +46,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/2ir02/Documents/GitHub/zadaniaStronyInternetowe/egzaminalne/materialy6/strona",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "settings.nodejs",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/2ir02/Documents/GitHub/zadaniaStronyInternetowe/egzaminalne/materialy6/strona&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\materialy6\strona" />
@@ -70,11 +73,11 @@
       <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\teoria\T27c" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\egzamin2\bazaDanych" />
+      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\egzamin2" />
+      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\egzamin2\strona" />
       <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\materialy6\strona" />
-      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\zad2\kwerendy" />
-      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\zad2\strona" />
-      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\JQuery\JQ2" />
-      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\teoria\T25obiekty" />
+      <recent name="C:\Users\2ir02\Documents\GitHub\zadaniaStronyInternetowe\egzaminalne\materialy6" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (1)">
@@ -142,7 +145,10 @@
       <workItem from="1682063954625" duration="489000" />
       <workItem from="1682064633781" duration="3000" />
       <workItem from="1682064644466" duration="738000" />
-      <workItem from="1682319265545" duration="5641000" />
+      <workItem from="1682319265545" duration="5881000" />
+      <workItem from="1682419239012" duration="630000" />
+      <workItem from="1682668264133" duration="2939000" />
+      <workItem from="1684134626444" duration="4686000" />
     </task>
     <task id="LOCAL-00001" summary="p5js">
       <created>1669275561607</created>
@@ -403,7 +409,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682064135615</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="e04">
+      <created>1682325280680</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1682325280680</updated>
+    </task>
+    <task id="LOCAL-00039" summary="t27e">
+      <created>1682671223542</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1682671223542</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,9 +441,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="zadanie 82" />
-    <MESSAGE value="zadanie T25 3.44" />
-    <MESSAGE value="zadanie T25 3.46 zwierze i wlasciciel" />
     <MESSAGE value="zadanie T25 czolg" />
     <MESSAGE value="zadanie T25 punkt_odcinek" />
     <MESSAGE value="js" />
@@ -446,6 +463,9 @@
     <MESSAGE value="t32c tworzenie butów" />
     <MESSAGE value="stare zadania z egzaminow + nowe" />
     <MESSAGE value="egzaminowe" />
-    <option name="LAST_COMMIT_MESSAGE" value="egzaminowe" />
+    <MESSAGE value="e04" />
+    <MESSAGE value="t27e" />
+    <MESSAGE value="egzamin2" />
+    <option name="LAST_COMMIT_MESSAGE" value="egzamin2" />
   </component>
 </project>
